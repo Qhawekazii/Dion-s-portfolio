@@ -1,0 +1,14 @@
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.vercel/
+**/.vercel/
+.env
+.env.*
+!.env.example
+npm-debug.log*
+
+Just_Dion_Media_Kit.pdf
+media-kit.txt
+extract-pdf.mjs
