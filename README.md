@@ -2,19 +2,6 @@
 
 An interactive portfolio for Dion, built with React and Vite.
 
-## Run locally
-
-```powershell
-cd frontend
-npm install
-npm run dev
-```
-
-Create and preview a production build:
-
-```powershell
-npm run build
-npm run preview
 ```
 
 ## Deploy on Vercel
